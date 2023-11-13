@@ -53,8 +53,8 @@ public class MultiPizza2 {
             }
         }
 
-        System.out.println("largest is " + largest + " at position " + (largestIndex + 1));
-        System.out.println("second largest is " + secondLargest + " at position " + (secondLargestIndex + 1));
+        System.out.println("largest is " + largest + " at position " + (largestIndex));
+        System.out.println("second largest is " + secondLargest + " at position " + (secondLargestIndex));
     }
 
     public void store_gain(int index, double value) {
